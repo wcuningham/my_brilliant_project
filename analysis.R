@@ -1,7 +1,8 @@
-
+# load libraries
 library(remotes)
 library(holepunch)
 
+# install github package
 remotes::install_github("karthik/holepunch")
 
 
@@ -28,4 +29,8 @@ Some useful stuff
 more stuff
 
 # WILL'S CHANGES...
+<<<<<<< HEAD
 x <- 10
+=======
+
+>>>>>>> 1be669b78f7ddb8f8711adb0155a651c8c00ec75
